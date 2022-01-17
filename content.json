@@ -1,0 +1,22 @@
+{
+   "game":{
+      "playLink":"https://play.coastalfreeze.net/client"
+   },
+   "miscellanous":{
+      "aboutMessage":"Coastal Freeze Client v{{app_version}}\nCreated by Allinol and ctx for use with Coastal Freeze.\nOwners of Coastal Freeze: Fliberjig1 and Allinol, Do not Leak.",
+      "windowTitle":"Coastal Freeze Staff Edition",
+      "update":{
+         "win32":"There is a new version available (v{{update_info_version}}). It will be installed when the app closes.",
+         "darwin":"There is a new version available (v{{update_info_version}}). Please go install it manually from the website.",
+         "linux":"There is a new version available (v{{update_info_version}}). Auto-update has not been tested on this OS, so if after relaunching app this appears again, please go install it manually."
+      }
+   },
+   "discord":{
+      "invite":"https://discord.gg/ws5sXDC44R",
+      "rpc":{
+         "applicationId":"906263363942772828",
+         "details":"coastalfreeze.me",
+         "state":"Desktop Client"
+      }
+   }
+}
