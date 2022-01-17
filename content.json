@@ -3,8 +3,8 @@
       "playLink":"https://play.coastalfreeze.net/client"
    },
    "miscellanous":{
-      "aboutMessage":"Coastal Freeze Client v{{app_version}}\nCreated by Allinol and ctx for use with Coastal Freeze.\nOwners of Coastal Freeze: Fliberjig1 and Allinol, Do not Leak.",
-      "windowTitle":"Coastal Freeze Staff Edition",
+      "aboutMessage":"Coastal Freeze Client v{{app_version}}\nCreated by Allinol and ctx for use with Coastal Freeze.\nOwners of Coastal Freeze: Fliberjig1 and Allinol",
+      "windowTitle":"Coastal Freeze",
       "update":{
          "win32":"There is a new version available (v{{update_info_version}}). It will be installed when the app closes.",
          "darwin":"There is a new version available (v{{update_info_version}}). Please go install it manually from the website.",
