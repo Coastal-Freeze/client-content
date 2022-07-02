@@ -1,6 +1,6 @@
 {
    "game":{
-      "playLink":"https://play.coastalfreeze.me/"
+      "playLink":"https://play.coastalfreeze.net/client"
    },
    "miscellanous":{
       "aboutMessage":"Coastal Freeze Client v{{app_version}}\nCreated by Allinol and ctx for use with Coastal Freeze.\nOwners of Coastal Freeze: Fliberjig1 and Allinol",
